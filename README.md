@@ -1,7 +1,7 @@
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=red)
 
-##📊 API Endpoint
+📊 API Endpoint
 
 🔹 Benchmark completo
 
@@ -32,10 +32,10 @@ MySql POST:
 http://localhost:8080/api/postgre/benchmark?count=[count]
 ```
 
-📌 ###Parametro:
+📌 Parametro:
 	•	count: numero di record su cui eseguire le operazioni
 
-📌 ###Risultato:
+📌 Risultato:
 	•	I tempi di esecuzione vengono stampati nel terminale
 
 ##Esempio di output in console:
