@@ -38,7 +38,7 @@ http://localhost:8080/api/postgre/benchmark?count=[count]
 📌 Risultato:
 	•	I tempi di esecuzione vengono stampati nel terminale
 
-##Esempio di output in console:
+Esempio di output in console:
 Benchmark per 1000 operazioni:
 INSERT: 0.14567 sec
 SELECT: 0.02345 sec
